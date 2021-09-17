@@ -1,0 +1,16 @@
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\bin\Debug\net5.0\ProJectMatrix.exe
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\bin\Debug\net5.0\ProJectMatrix.deps.json
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\bin\Debug\net5.0\ProJectMatrix.runtimeconfig.json
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\bin\Debug\net5.0\ProJectMatrix.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\bin\Debug\net5.0\ProJectMatrix.dll
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\bin\Debug\net5.0\ref\ProJectMatrix.dll
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\bin\Debug\net5.0\ProJectMatrix.pdb
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.AssemblyInfo.cs
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.dll
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ref\ProJectMatrix.dll
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.pdb
+C:\Users\Artur\source\repos\ProJectMatrix\ProJectMatrix\obj\Debug\net5.0\ProJectMatrix.genruntimeconfig.cache
