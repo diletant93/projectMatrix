@@ -17,39 +17,7 @@ namespace ConsoleApp1
                 universal[i] = i + 1;
             }
 
-            Console.WriteLine("B addition:\n");
-            int[] Badd = Addition(array[1], universal);//B
-            ShowArray(Badd);
-            Console.WriteLine();
-
-            Console.WriteLine("A accociation B(addition):\n");
-            int[] A_acc_B_add = Accociation(Badd, array[0]);
-            ShowArray(A_acc_B_add);
-
-            Console.WriteLine("A addition:\n");
-            int[] A_add = Addition(array[0], universal);
-            ShowArray(A_add);
-
-            Console.WriteLine("B addition twice:\n");
-            int[] B_addTwice = Addition(Addition(array[1], universal), universal);
-            ShowArray(B_addTwice);
-
-            Console.WriteLine("A(addition) accociation B(double twice):\n");
-            int[] A_add_acc_B_addTwice = Accociation(A_add, B_addTwice);
-            ShowArray(A_add_acc_B_addTwice);
-
-
-            Console.WriteLine("(A accociation B(addition)) difference (A(addition) accociation B(double twice)):\n");
-            int[] A_acc_B_add_diff_A_add_acc_B_addTwice = Difference(A_acc_B_add, A_add_acc_B_addTwice);
-            ShowArray(A_acc_B_add_diff_A_add_acc_B_addTwice);
-
-            Console.WriteLine("C addition:\n");
-            int[] C_add = Addition(array[2], universal);
-            ShowArray(C_add);
-
-            Console.WriteLine("((A accociation B(addition)) difference (A(addition) accociation B(double twice))) difference C(addition):\n ");
-            int[] A_acc_B_add_diff_A_add_acc_B_addTwice_diff_C_add = Difference(A_acc_B_add_diff_A_add_acc_B_addTwice, C_add);
-            ShowArray(A_acc_B_add_diff_A_add_acc_B_addTwice_diff_C_add);
+`
 
         }
         static int[] Difference(int[] array1, int[] array2)//різниця
